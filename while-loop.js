@@ -12,3 +12,15 @@ while(number <= 10){
     console.log(number);
     number++;
 }
+// even number 
+var even = 0;
+while(even <= 20){
+    console.log(even);
+    even = even + 2;
+}
+// odd number 
+var odd = 1;
+while(odd <= 20){
+    console.log(odd);
+    odd = odd + 2;
+}
