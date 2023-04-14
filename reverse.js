@@ -5,4 +5,9 @@ while(num > 1){
     num--;
 }
 
+//reverse for loop
+for(var i = 10; i > 1; i--){
+    console.log(i);
+}
+
 
